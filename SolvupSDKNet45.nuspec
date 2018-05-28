@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>SolvupSDKNet45</id>
+    <version>1.0.1</version>
+    <title>SolvupSDKNet45</title>
+    <authors>SG</authors>
+    <owners>SG</owners>
+    <projectUrl>https://github.com/samuelGrahame/SolvupSDK</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SolvupSDK</description>
+    <releaseNotes>
+	</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags></tags>
+	<dependencies>
+		<dependency id="Newtonsoft.Json" version="[11.0.2]"/>		
+	  </dependencies>
+  </metadata>
+  <files>
+	<file src="SolvupSDKNet45\bin\Release\SolvupSDKNet45.dll" target="lib\SolvupSDKNet45.dll" />
+  </files>
+ 
+</package>
