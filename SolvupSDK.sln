@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolvupSDK", "SolvupSDK\SolvupSDK.csproj", "{C496D456-068D-4055-8991-01B2CE9D0854}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolvupSDK", "SolvupSDK\SolvupSDK.csproj", "{C496D456-068D-4055-8991-01B2CE9D0854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolvupSDKNet45", "SolvupSDKNet45\SolvupSDKNet45.csproj", "{1A6109B9-D019-4E21-A3E9-B07666551492}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C496D456-068D-4055-8991-01B2CE9D0854}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C496D456-068D-4055-8991-01B2CE9D0854}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C496D456-068D-4055-8991-01B2CE9D0854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6109B9-D019-4E21-A3E9-B07666551492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6109B9-D019-4E21-A3E9-B07666551492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6109B9-D019-4E21-A3E9-B07666551492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6109B9-D019-4E21-A3E9-B07666551492}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
